@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ebc35fe-a813-4e81-bb1a-5756566fbc41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PyQt5_Tutorials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1) pencere_olusturma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) pencere_button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3) butonlara_fonksiyonelik_kazandirma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.1) butonlara_fonksyonellk kazandırma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4) pencereye_resim_yazı_ekleme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5) BoxLayout(Horizontal_Vertical).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6) input_alanlari.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini_Projects/Kullanıcı Girisi/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vb9OjPdOYrPnwVg8T8S3s9WkBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2) buton_fonksiyonlari.executor": "Run",
+    "Python.2) pencere_button.executor": "Run",
+    "Python.3) butonlara_fonksiyonelik_kazandirma.executor": "Run",
+    "Python.3) pencere_button.executor": "Run",
+    "Python.3.1) butonlara_fonksyonellk kazandırma.executor": "Run",
+    "Python.4) BoxLayout.executor": "Run",
+    "Python.4) pencereye_resim_yazı_ekleme.executor": "Run",
+    "Python.5) BoxLayout(Horizontal_Vertical).executor": "Run",
+    "Python.6) input_alanlari.executor": "Run",
+    "Python.add_text_image_to_window.executor": "Run",
+    "Python.buton+olusturma.executor": "Run",
+    "Python.deneme.executor": "Run",
+    "Python.etiket+olusturma.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pencere_olusturma.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Win11/Desktop/PyQt5_Tutorials",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Win11\Desktop\PyQt5_Tutorials" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ebc35fe-a813-4e81-bb1a-5756566fbc41" name="Changes" comment="" />
+      <created>1744402876477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744402876477</updated>
+      <workItem from="1744402877525" duration="5377000" />
+      <workItem from="1744439939050" duration="6599000" />
+      <workItem from="1744451666020" duration="5745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$3__pencere_button.coverage" NAME="3) pencere_button Coverage Results" MODIFIED="1744449170280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$2__pencere_button.coverage" NAME="2) pencere_button Coverage Results" MODIFIED="1744450852876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$3_1__butonlara_fonksyonellk_kazandrma.coverage" NAME="3.1) butonlara_fonksyonellk kazandırma Coverage Results" MODIFIED="1744453279555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$main.coverage" NAME="main Coverage Results" MODIFIED="1744457435923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mini_Projects/Kullanıcı Girisi" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$buton_olusturma.coverage" NAME="buton+olusturma Coverage Results" MODIFIED="1744408180458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$add_text_image_to_window.coverage" NAME="add_text_image_to_window Coverage Results" MODIFIED="1744406972706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$2__buton_fonksiyonlari.coverage" NAME="2) buton_fonksiyonlari Coverage Results" MODIFIED="1744441753428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$6__input_alanlari.coverage" NAME="6) input_alanlari Coverage Results" MODIFIED="1744455689430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$4__pencereye_resim_yaz_ekleme.coverage" NAME="4) pencereye_resim_yazı_ekleme Coverage Results" MODIFIED="1744455677322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1744403218734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$etiket_olusturma.coverage" NAME="etiket+olusturma Coverage Results" MODIFIED="1744407117992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$4__BoxLayout.coverage" NAME="4) BoxLayout Coverage Results" MODIFIED="1744440206037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$pencere_olusturma.coverage" NAME="pencere_olusturma Coverage Results" MODIFIED="1744403528768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$5__BoxLayout_Horizontal_Vertical_.coverage" NAME="5) BoxLayout(Horizontal_Vertical) Coverage Results" MODIFIED="1744450317933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$3__butonlara_fonksiyonelik_kazandirma.coverage" NAME="3) butonlara_fonksiyonelik_kazandirma Coverage Results" MODIFIED="1744453293914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
