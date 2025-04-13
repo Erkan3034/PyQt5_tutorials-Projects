@@ -35,6 +35,7 @@ class Pencere(QWidget):
         # Kullanıcı sildi, bir sonraki yazmada mesajı göster
         self.ilk_temizle = True
 
+
     def yazi_degisti(self):
         # Yazı yazılıyor ama ilk kez silinip yazılıyorsa mesaj ver
         if self.yazi_alani.toPlainText().strip():
