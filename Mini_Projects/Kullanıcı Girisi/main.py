@@ -2,6 +2,7 @@ import sqlite3
 import sys
 from PyQt5 import QtWidgets
 
+
 class Pencere(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
@@ -70,6 +71,7 @@ class Pencere(QtWidgets.QWidget):
 
         self.cursor.execute("SELECT * FROM users WHERE userName = ? AND password = ?", (username, password))
         user = self.cursor.fetchone()
+
 
         if user:
             self.yazi_alani.setText(f"Merhaba {username}!")
