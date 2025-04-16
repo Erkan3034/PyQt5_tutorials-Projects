@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebc35fe-a813-4e81-bb1a-5756566fbc41" name="Changes" comment="QTextEdit examples added!">
-      <change afterPath="$PROJECT_DIR$/Mini_Projects/Mini_Notepad/app.py" afterDir="false" />
+    <list default="true" id="2ebc35fe-a813-4e81-bb1a-5756566fbc41" name="Changes" comment="Mini Notepad project!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini_Projects/Mini_Notepad/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini_Projects/Mini_Notepad/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,7 @@
       <workItem from="1744458358141" duration="5815000" />
       <workItem from="1744563808037" duration="97000" />
       <workItem from="1744574610271" duration="5734000" />
-      <workItem from="1744831054423" duration="2939000" />
+      <workItem from="1744831054423" duration="9422000" />
     </task>
     <task id="LOCAL-00001" summary="First commit on this project.">
       <option name="closed" value="true" />
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744579577919</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Mini Notepad project!">
+      <option name="closed" value="true" />
+      <created>1744835473355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744835473355</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +207,8 @@
     <MESSAGE value="CheckBox examples added!" />
     <MESSAGE value="QRadioButton examples added!" />
     <MESSAGE value="QTextEdit examples added!" />
-    <option name="LAST_COMMIT_MESSAGE" value="QTextEdit examples added!" />
+    <MESSAGE value="Mini Notepad project!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini Notepad project!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -221,13 +230,13 @@
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$buton_olusturma.coverage" NAME="buton+olusturma Coverage Results" MODIFIED="1744408180458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$add_text_image_to_window.coverage" NAME="add_text_image_to_window Coverage Results" MODIFIED="1744406972706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$2__buton_fonksiyonlari.coverage" NAME="2) buton_fonksiyonlari Coverage Results" MODIFIED="1744441753428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$6__input_alanlari.coverage" NAME="6) input_alanlari Coverage Results" MODIFIED="1744460293012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$6__input_alanlari.coverage" NAME="6) input_alanlari Coverage Results" MODIFIED="1744836056413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$8__RadioButton_Olusturma.coverage" NAME="8) RadioButton_Olusturma Coverage Results" MODIFIED="1744578322011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$4__pencereye_resim_yaz_ekleme.coverage" NAME="4) pencereye_resim_yazı_ekleme Coverage Results" MODIFIED="1744455677322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1744403218734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$etiket_olusturma.coverage" NAME="etiket+olusturma Coverage Results" MODIFIED="1744407117992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$4__BoxLayout.coverage" NAME="4) BoxLayout Coverage Results" MODIFIED="1744440206037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$app.coverage" NAME="app Coverage Results" MODIFIED="1744834821284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mini_Projects/Mini_Notepad" />
+    <SUITE FILE_PATH="coverage/PyQt5_Tutorials$app.coverage" NAME="app Coverage Results" MODIFIED="1744840015855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mini_Projects/Mini_Notepad" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$pencere_olusturma.coverage" NAME="pencere_olusturma Coverage Results" MODIFIED="1744403528768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$5__BoxLayout_Horizontal_Vertical_.coverage" NAME="5) BoxLayout(Horizontal_Vertical) Coverage Results" MODIFIED="1744450317933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQt5_Tutorials$3__butonlara_fonksiyonelik_kazandirma.coverage" NAME="3) butonlara_fonksiyonelik_kazandirma Coverage Results" MODIFIED="1744453293914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
