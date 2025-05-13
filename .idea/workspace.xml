@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebc35fe-a813-4e81-bb1a-5756566fbc41" name="Changes" comment="Mini Notepad project updated!">
-      <change afterPath="$PROJECT_DIR$/Mini_Projects/Mail_Gönderme/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini_Projects/Mail_Gönderme/mail_sender.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini_Projects/Mail_Gönderme/mail_sender.py" afterDir="false" />
+    <list default="true" id="2ebc35fe-a813-4e81-bb1a-5756566fbc41" name="Changes" comment="init: PyQt5 arayüzü ile SMTP üzerinden e-posta gönderimi yapan modern bir uygulama geliştirildi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +120,7 @@
       <workItem from="1744563808037" duration="97000" />
       <workItem from="1744574610271" duration="5734000" />
       <workItem from="1744831054423" duration="9711000" />
-      <workItem from="1745685381948" duration="3359000" />
+      <workItem from="1745685381948" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="First commit on this project.">
       <option name="closed" value="true" />
@@ -197,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744841823277</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init: PyQt5 arayüzü ile SMTP üzerinden e-posta gönderimi yapan modern bir uygulama geliştirildi">
+      <option name="closed" value="true" />
+      <created>1745689099462</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745689099462</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +227,8 @@
     <MESSAGE value="QTextEdit examples added!" />
     <MESSAGE value="Mini Notepad project!" />
     <MESSAGE value="Mini Notepad project updated!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini Notepad project updated!" />
+    <MESSAGE value="init: PyQt5 arayüzü ile SMTP üzerinden e-posta gönderimi yapan modern bir uygulama geliştirildi" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: PyQt5 arayüzü ile SMTP üzerinden e-posta gönderimi yapan modern bir uygulama geliştirildi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,0 +1,5 @@
+
+---
+Gönderen: turguterkan55@gmail.com
+Alıcı(lar): turguterkan1306@gmail.com
+Konu: PyQt5 İle Mail Sender Tasarımı
