@@ -23,7 +23,7 @@ PyQt5>=5.15.0
 ## 🚀 Kurulum
 1. Projeyi bilgisayarınıza klonlayın:
 ```bash
-git clone [https://github.com/Erkan3034/PyQt5_tutorials-Projects/tree/master/Mini_Projects/Mini_Notepad]
+git clone https://github.com/Erkan3034/PyQt5_tutorials-Projects/tree/master/Mini_Projects/Mini_Notepad
 ```
 
 2. Gerekli paketleri yükleyin:
