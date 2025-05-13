@@ -70,7 +70,7 @@ python main.py
 - Parolalar şu an için düz metin olarak saklanmaktadır (geliştirme aşamasında)
 - Aynı kullanıcı adıyla birden fazla kayıt yapılamaz
 
-## 🐛 Bilinen Sorunlar
+## 🐛 Bilinen Eksikler
 - Parolalar şifrelenmeden saklanmaktadır
 - Parola sıfırlama özelliği bulunmamaktadır
 - Kullanıcı adı ve parola için karakter sınırlaması yoktur
